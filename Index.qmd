@@ -9,6 +9,7 @@ format:
     toc: true
     citeproc: true
 ---
+
 ## Introduction
 
 Rights Retention (RR) is an approach to scholarly publishing that enables authors and institutions to **retain sufficient rights over research outputs** to make them openly available and reusable. It typically allows authors to share their **Author Accepted Manuscript (AAM)** through repositories under open licences such as CC BY [@coalition_s_rrs].
